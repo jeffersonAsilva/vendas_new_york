@@ -16,4 +16,5 @@ Objetivo é utilização da bibliotecas pandas ,numpy,dash, como ferramentas de 
 
 # Recriando o projeto em sua máquina local.
 
-- `Execute o comando`: `pip install -r requirements.txt `
+- `Faça o Download do projeto em sua máquina local na pasta de sua preferência. `
+- `Execute o comando `: `pip install -r requirements.txt , no terminal na pasta escolhida.`
