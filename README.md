@@ -1,6 +1,6 @@
-![GitHub language count](https://img.shields.io/github/languages/count/jeffersonASilva/PIB_percapita_mundial)
+![GitHub language count](https://img.shields.io/github/languages/count/jeffersonASilva/vendas_new_york)
 
-![GitHub top language](https://img.shields.io/github/languages/top/jeffersonASIlva/PIB_percapita_mundial)
+![GitHub top language](https://img.shields.io/github/languages/top/jeffersonASIlva/vendas_new_york)
 
 ## Projeto Vendas de Imóvel New York.
 
