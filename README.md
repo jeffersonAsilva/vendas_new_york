@@ -6,6 +6,10 @@
 
 Objetivo é utilização da bibliotecas pandas ,numpy,dash, como ferramentas de exploração de dados.
 
-## Imagem do Dashboard do Projeto.
+## Imagem 1 do Dashboard do Projeto.
 
-<img src="https://github.com/jefferson1984/Desafio-1-TI-Academy/blob/main/imgcapa.png">
+<img src="https://github.com/jeffersonAsilva/vendas_new_york/blob/main/img1.png">
+
+## Imagem 2 do Dashboard do Projeto.
+
+<img src="https://github.com/jeffersonAsilva/vendas_new_york/blob/main/img2.png">
