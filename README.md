@@ -8,8 +8,12 @@ Objetivo é utilização da bibliotecas pandas ,numpy,dash, como ferramentas de 
 
 ## Imagem 1 do Dashboard do Projeto.
 
-<img src="https://github.com/jeffersonAsilva/vendas_new_york/blob/main/img1.png">
+<img src="https://github.com/jeffersonAsilva/vendas_new_york/blob/main/img1_final.png">
 
 ## Imagem 2 do Dashboard do Projeto.
 
-<img src="https://github.com/jeffersonAsilva/vendas_new_york/blob/main/img2.png">
+<img src="https://github.com/jeffersonAsilva/vendas_new_york/blob/main/img2_final.png">
+
+# Recriando o projeto em sua máquina local.
+
+- `Execute o comando`: `pip install -r requirements.txt `
