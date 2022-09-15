@@ -17,4 +17,5 @@ Objetivo é utilização da bibliotecas pandas ,numpy,dash, como ferramentas de 
 # Recriando o projeto em sua máquina local.
 
 - `Faça o Download do projeto em sua máquina local na pasta de sua preferência. `
+- `Acesse o site do mapbox para ter acesso a token para criação do mapa https://www.mapbox.com/`
 - `Execute o comando `: `pip install -r requirements.txt , no terminal na pasta escolhida.`

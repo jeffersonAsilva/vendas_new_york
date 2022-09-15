@@ -71,7 +71,7 @@ def update_hist(location, square_size, color_map):
             template='plotly_dark',
             paper_bgcolor="rgba(0,0,0,0)")
         hist_fig.layout = hist_layout
-
+        # acessando a api do mapbox lembre-se de se cadastrar no site e acessar o token
         px.set_mapbox_access_token(open("keys").read())
 
         # precisamos melhorar a distribuição das cores no gráfico
